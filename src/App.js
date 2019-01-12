@@ -1,7 +1,24 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
+const base64Img = require('base64-img');
+
 export default class App extends React.Component {
+  constructor(props) {
+    super(props);
+
+    this.state = {
+      
+    }
+
+    this.sendAPIRequest = () => {
+
+    }
+
+    this.handleAnnotations = () => {
+
+    }
+  }
   render() {
     return (
       <View style={styles.container}>
