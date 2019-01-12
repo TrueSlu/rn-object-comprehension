@@ -1,1 +1,15 @@
-# rn-object-comprehension
+# Mobile Object Comprehension
+
+Built with React Native, Expo, and Google Cloud Platform
+
+Installation & Setup:
+
+1. Install node + npm from https://nodejs.org/en/
+1. Clone repository (`git clone https://github.com/TrueSlu/rn-object-comprehension`)
+1. `cd rn-object-comprehension`
+1. `cd src`
+1. `npm install -g expo-cli
+1. `npm install`
+1. `npm start`
+1. Install the Expo App on your phone
+1. Scan the QR code with your Camera app (iOS) or the Expo app (Android)
