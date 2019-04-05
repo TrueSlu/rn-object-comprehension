@@ -1,6 +1,6 @@
 # Mobile Object Comprehension
 
-Built with React Native, Expo, and Google Cloud Platform
+Built with React Native, Expo, and Google Cloud Platform for TSA (lol) in a night of rips and pizza
 
 Installation & Setup:
 
