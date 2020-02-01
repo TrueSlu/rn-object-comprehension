@@ -9,7 +9,7 @@ Installation & Setup:
 1. `cd rn-object-comprehension`
 1. `cd src`
 1. `npm install -g expo-cli`
-1. if there is an EACCES error, use sudo npm install expo-cli -g --unsafe-perm
+1. if there is an EACCES error, use `sudo npm install expo-cli -g --unsafe-perm`
 1. `npm install`
 1. `npm start`
 1. Install the Expo App on your phone
