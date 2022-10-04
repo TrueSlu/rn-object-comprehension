@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@google-cloud/vision": "^0.24.0",
-    "expo": "^32.0.0",
+    "expo": "^46.0.14",
     "fs": "0.0.1-security",
     "react": "16.5.0",
     "react-cloud-vision-api": "^0.3.0",
